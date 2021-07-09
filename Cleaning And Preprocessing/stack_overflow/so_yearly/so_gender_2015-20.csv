@@ -1,0 +1,67 @@
+gender,count,year
+Male,23699,2015
+Female,1480,2015
+Prefer not to disclose,437,2015
+Other,128,2015
+Male,51388,2016
+Female,3202,2016
+Prefer not to disclose,722,2016
+Other,274,2016
+Male,31589,2017
+Female,2600,2017
+Other,225,2017
+Male; Other,171,2017
+Gender non-conforming,160,2017
+Male; Gender non-conforming,65,2017
+Female; Transgender,56,2017
+Transgender,55,2017
+Female; Gender non-conforming,29,2017
+Male; Female; Transgender; Gender non-conforming; Other,15,2017
+Transgender; Gender non-conforming,15,2017
+Male; Female,15,2017
+Male; Transgender,11,2017
+Female; Transgender; Gender non-conforming,8,2017
+Male; Female; Transgender; Gender non-conforming,7,2017
+Gender non-conforming; Other,4,2017
+Male; Female; Transgender,4,2017
+Male; Transgender; Gender non-conforming,4,2017
+Male; Gender non-conforming; Other,3,2017
+Male; Female; Other,2,2017
+Male; Transgender; Other,1,2017
+Female; Gender non-conforming; Other,1,2017
+Male; Female; Gender non-conforming,1,2017
+Female; Transgender; Other,1,2017
+Transgender; Other,1,2017
+Male; Female; Gender non-conforming; Other,1,2017
+Female; Transgender; Gender non-conforming; Other,1,2017
+Female; Other,1,2017
+Male; Female; Transgender; Other,1,2017
+Male,59458,2018
+Female,4025,2018
+"Non-binary, genderqueer, or gender non-conforming",284,2018
+Female;Transgender,145,2018
+"Male;Non-binary, genderqueer, or gender non-conforming",128,2018
+Transgender,105,2018
+Female;Male,98,2018
+"Transgender;Non-binary, genderqueer, or gender non-conforming",51,2018
+"Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming",50,2018
+"Female;Non-binary, genderqueer, or gender non-conforming",50,2018
+Male;Transgender,29,2018
+"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",24,2018
+Female;Male;Transgender,14,2018
+"Male;Transgender;Non-binary, genderqueer, or gender non-conforming",5,2018
+"Female;Male;Non-binary, genderqueer, or gender non-conforming",3,2018
+Man,77919,2019
+Woman,6344,2019
+"Non-binary, genderqueer, or gender non-conforming",597,2019
+"Man;Non-binary, genderqueer, or gender non-conforming",181,2019
+"Woman;Non-binary, genderqueer, or gender non-conforming",163,2019
+Woman;Man,132,2019
+"Woman;Man;Non-binary, genderqueer, or gender non-conforming",70,2019
+Man,46013,2020
+Woman,3844,2020
+"Non-binary, genderqueer, or gender non-conforming",385,2020
+"Man;Non-binary, genderqueer, or gender non-conforming",121,2020
+"Woman;Non-binary, genderqueer, or gender non-conforming",92,2020
+Woman;Man,76,2020
+"Woman;Man;Non-binary, genderqueer, or gender non-conforming",26,2020

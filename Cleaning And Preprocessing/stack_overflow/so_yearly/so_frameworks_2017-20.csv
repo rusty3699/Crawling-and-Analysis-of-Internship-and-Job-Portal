@@ -1,0 +1,89 @@
+frameworks,count,year
+.NET Core,6763,2017
+React,3953,2017
+AngularJS,8962,2017
+Node.js,9522,2017
+Cordova,2232,2017
+Hadoop,1148,2017
+Spark,953,2017
+Firebase,1979,2017
+Xamarin,1675,2017
+Django,6723,2018
+React,14337,2018
+Angular,19023,2018
+Node.js,25598,2018
+Hadoop,2447,2018
+Spark,2475,2018
+Spring,9079,2018
+.NET Core,14026,2018
+Cordova,4369,2018
+Xamarin,3796,2018
+TensorFlow,4026,2018
+Torch/PyTorch,868,2018
+Django,8249,2019
+Flask,7694,2019
+Express,12522,2019
+jQuery,30981,2019
+React.js,19877,2019
+Spring,10298,2019
+Ruby on Rails,5225,2019
+Other(s):,5257,2019
+Angular/Angular.js,19532,2019
+ASP.NET,16699,2019
+Vue.js,9671,2019
+Laravel,6679,2019
+Drupal,2195,2019
+Node.js,29207,2019
+.NET,21889,2019
+Cordova,4147,2019
+Hadoop,2856,2019
+Pandas,7447,2019
+Unity 3D,6627,2019
+Torch/PyTorch,1922,2019
+Ansible,5504,2019
+Chef,1476,2019
+TensorFlow,6009,2019
+Xamarin,3810,2019
+.NET Core,13875,2019
+React Native,6133,2019
+Puppet,1557,2019
+Other(s):,2776,2019
+Apache Spark,3394,2019
+Unreal Engine,2055,2019
+Flutter,2010,2019
+CryEngine,344,2019
+ASP.NET,9258,2020
+ASP.NET Core,8082,2020
+Ruby on Rails,2944,2020
+Flask,6005,2020
+jQuery,18316,2020
+Angular,10617,2020
+Angular.js,6826,2020
+Django,6014,2020
+React.js,15167,2020
+Vue.js,7322,2020
+Gatsby,1703,2020
+Spring,6941,2020
+Express,8961,2020
+Symfony,1851,2020
+Laravel,4680,2020
+Drupal,1369,2020
+.NET,14144,2020
+.NET Core,10755,2020
+React Native,4626,2020
+Ansible,2955,2020
+Pandas,6253,2020
+Node.js,20741,2020
+Unity 3D,4413,2020
+TensorFlow,4652,2020
+Torch/PyTorch,1872,2020
+Teraform,2518,2020
+Unreal Engine,1316,2020
+Hadoop,1798,2020
+Flutter,2897,2020
+Cordova,2419,2020
+Xamarin,2357,2020
+Keras,2504,2020
+Chef,733,2020
+Apache Spark,2089,2020
+Puppet,945,2020

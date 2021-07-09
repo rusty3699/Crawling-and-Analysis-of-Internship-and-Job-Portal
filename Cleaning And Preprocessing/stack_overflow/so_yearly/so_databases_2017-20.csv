@@ -1,0 +1,58 @@
+database,count,year
+MySQL,16375,2017
+SQLite,7838,2017
+MongoDB,6192,2017
+Redis,4143,2017
+SQL Server,11358,2017
+PostgreSQL,7815,2017
+Oracle,4874,2017
+Cassandra,906,2017
+Redis,11944,2018
+SQL Server,27293,2018
+MySQL,38909,2018
+PostgreSQL,21776,2018
+Amazon RDS/Aurora,3388,2018
+"Microsoft Azure (Tables, CosmosDB, SQL, etc)",5203,2018
+Memcached,3615,2018
+Oracle,7376,2018
+IBM Db2,1677,2018
+MongoDB,17183,2018
+Google Cloud Storage,3634,2018
+Amazon DynamoDB,3454,2018
+Apache HBase,1107,2018
+Apache Hive,1438,2018
+Amazon Redshift,1464,2018
+Elasticsearch,9312,2018
+MariaDB,8853,2018
+SQLite,13036,2018
+Google BigQuery,1384,2018
+Cassandra,2444,2018
+Neo4j,1572,2018
+SQLite,23713,2019
+PostgreSQL,25758,2019
+MySQL,40537,2019
+Couchbase,1517,2019
+MongoDB,19100,2019
+Oracle,12353,2019
+Cassandra,2597,2019
+Elasticsearch,10720,2019
+Redis,13971,2019
+DynamoDB,4629,2019
+Microsoft SQL Server,24590,2019
+Firebase,9612,2019
+MariaDB,12401,2019
+Other(s):,5059,2019
+Elasticsearch,6817,2020
+Microsoft SQL Server,16336,2020
+Oracle,8155,2020
+MySQL,27559,2020
+PostgreSQL,17892,2020
+Redis,9056,2020
+SQLite,15434,2020
+MariaDB,8312,2020
+Firebase,7128,2020
+MongoDB,13086,2020
+IBM DB2,1421,2020
+DynamoDB,3497,2020
+Cassandra,1654,2020
+Couchbase,937,2020

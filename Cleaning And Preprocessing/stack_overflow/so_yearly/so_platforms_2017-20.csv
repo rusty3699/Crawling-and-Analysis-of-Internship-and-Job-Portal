@@ -1,0 +1,75 @@
+platform,count,year
+iOS,4782,2017
+Amazon Web Services (AWS),8183,2017
+Windows Desktop,11949,2017
+Linux Desktop,9593,2017
+Mac OS,5363,2017
+Android,8211,2017
+Microsoft Azure,3327,2017
+Windows Phone,1124,2017
+Raspberry Pi,4676,2017
+WordPress,4537,2017
+Arduino,2986,2017
+Serverless,606,2017
+SharePoint,1083,2017
+Mainframe,404,2017
+Salesforce,762,2017
+AWS,15927,2018
+Azure,7267,2018
+Linux,31859,2018
+Firebase,9575,2018
+Arduino,7006,2018
+Windows Desktop or Server,23393,2018
+Heroku,6913,2018
+Amazon Echo,1938,2018
+iOS,10201,2018
+Mac OS,11822,2018
+Serverless,2987,2018
+Android,19157,2018
+WordPress,10486,2018
+Drupal,2010,2018
+Google Cloud Platform/App Engine,5302,2018
+Raspberry Pi,10509,2018
+SharePoint,1766,2018
+IBM Cloud or Watson,950,2018
+Mainframe,533,2018
+Apple Watch or Apple TV,1266,2018
+ESP8266,1466,2018
+Gaming console,850,2018
+Predix,110,2018
+Windows Phone,1800,2018
+Salesforce,1457,2018
+Google Home,892,2018
+MacOS,17806,2019
+Windows,40630,2019
+Linux,42753,2019
+Android,21639,2019
+Slack,16723,2019
+Google Cloud Platform,9928,2019
+AWS,21304,2019
+Docker,25212,2019
+Heroku,8527,2019
+IBM Cloud or Watson,1514,2019
+iOS,10446,2019
+Microsoft Azure,9528,2019
+WordPress,11595,2019
+Arduino,8543,2019
+Raspberry Pi,12183,2019
+Kubernetes,6835,2019
+Other(s):,2852,2019
+Windows,28595,2020
+iOS,6562,2020
+AWS,14389,2020
+Docker,18851,2020
+Linux,29600,2020
+MacOS,12898,2020
+Android,14101,2020
+WordPress,7654,2020
+Raspberry Pi,8010,2020
+Heroku,5974,2020
+Google Cloud Platform,7569,2020
+Kubernetes,6178,2020
+Arduino,5712,2020
+Slack Apps and Integrations,3922,2020
+Microsoft Azure,7830,2020
+IBM Cloud or Watson,876,2020
