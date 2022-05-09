@@ -4,6 +4,8 @@
 ## Introduction
 The project explores internships and jobs in the current market. The dataset is built by scraping publically available web pages of leading websites, Internshala and Monster India, as well as merging well known public dataset - stackoverflow developer survey from the years 2015 to 2020. We have performed extensive data exploration, using various data science and data mining techniques. 
 
+Link - https://github.com/rusty3699/Crawling-and-Analysis-of-Internship-and-Job-Portal/blob/main/Documentation.pdf
+
 ### Objectives
 + Build a high-quality dataset and develop an efficient data preprocessing pipeline 
 + Discover trends in current internships and job market 
